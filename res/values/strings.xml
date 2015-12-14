@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Brucus TicTacToe</string>
+    <string name="description">Sample app for using Brucus Android lib</string>
+    <string name="action_connect">Connect</string>
+    <string name="action_play_again">Play again</string>
+    <string name="start_playing">Start playing, it\'s your turn!</string>
+    <string name="game_not_finished">The previous game must be finished before you starting a new one!</string>
+    <string name="score">Score</string>
+    <string name="home">Home</string>
+    <string name="guest">Guest</string>
+    <string name="score_zero">0</string>
+    <string name="loading_title">Please wait!</string>
+    <string name="loading_body">Searching for opponent&#8230;</string>
+
+</resources>
